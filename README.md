@@ -1,5 +1,5 @@
 # yaluxe
-可驾驶游艇模型
+> 可驾驶游艇模型
 
 ### 模型预览
 ![image](https://user-images.githubusercontent.com/64310374/216514570-508560df-2d59-43fc-9cb4-5adaf9a3c844.png)
